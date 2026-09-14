@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator & Studio",
+  "description": "A feature-rich responsive QR Code customizer with gradient styling, custom logos, finder patterns, branded frames, preset templates, and high-res export (PNG, SVG, PDF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
